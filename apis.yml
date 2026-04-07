@@ -1,7 +1,12 @@
 aid: supervalu
-url: https://raw.githubusercontent.com/api-evangelist/supervalu/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/supervalu/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.supervalu.com
+description: >-
+  SuperValu was one of the largest companies in the United States grocery channel,
+  operating retail grocery stores and providing wholesale services before being acquired
+  by United Natural Foods.
