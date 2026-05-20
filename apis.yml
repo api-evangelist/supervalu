@@ -23,6 +23,8 @@ tags:
   - UNFI
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/supervalu
   - type: Website
     url: https://www.supervalu.com
   - type: Parent Company
