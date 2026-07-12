@@ -24,6 +24,8 @@ tags:
   - Fortune 500
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/supervalu-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/supervalu
   - type: Website
