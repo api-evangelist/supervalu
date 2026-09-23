@@ -1,7 +1,9 @@
 ---
 title: 'AI in action: the companies using the tech to power ahead'
 url: https://tekenable.com/ai-in-action-the-companies-using-the-tech-to-power-ahead/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Supervalu" press release artificial intelligence'
 position: 3
 source: serpapi-google

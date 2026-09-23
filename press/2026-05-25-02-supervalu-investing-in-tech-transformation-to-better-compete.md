@@ -1,7 +1,9 @@
 ---
 title: SUPERVALU investing in tech transformation to better compete ...
 url: https://www.ciodive.com/news/supervalu-investing-in-tech-transformation-to-better-compete-in-grocery-bus/444942/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Supervalu" press release artificial intelligence'
 position: 2
 source: serpapi-google
