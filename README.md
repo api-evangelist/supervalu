@@ -66,33 +66,77 @@
 
 SuperValu was one of the largest grocery retail and wholesale distribution companies in the United States before being acquired by United Natural Foods (UNFI) in 2018 for $2.9 billion. SuperValu operated retail grocery stores under multiple banners and provided wholesale distribution services. The supervalu.com domain now redirects to UNFI's wholesale food distribution platform. Suppliers interact with UNFI/SuperValu distribution through EDI (Electronic Data Interchange) and the myUNFI supplier portal.
 
-**URL:** [APIs.yml](https://raw.githubusercontent.com/api-evangelist/supervalu/refs/heads/main/apis.yml)
+**Areas:** Grocery · Retail · Wholesale · Food Distribution · Supply Chain · EDI · Consumer Goods · UNFI · Fortune 500
 
-## Tags
+## SuperValu on APIs.io
 
-- Grocery
-- Retail
-- Wholesale
-- Food Distribution
-- Supply Chain
-- EDI
-- Consumer Goods
-- UNFI
+Everything profiled for SuperValu is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/supervalu/](https://apis.io/providers/supervalu/)** — or go straight to one of the APIs or properties below.
 
-## APIs
+### Published properties
 
-No public developer APIs have been documented for SuperValu. The company was acquired by UNFI in 2018, and supplier integration is handled through EDI (transactions 875, 880, 824) and the myUNFI supplier portal rather than a public REST API.
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Common Properties
+#### Security (1)
 
-| Type | URL |
-|------|-----|
-| Website | [https://www.supervalu.com](https://www.supervalu.com) |
-| Parent Company | [https://www.unfi.com](https://www.unfi.com) |
-| Supplier Portal | [https://www.myunfi.com](https://www.myunfi.com) |
-| Wikipedia | [SuperValu (United States)](https://en.wikipedia.org/wiki/SuperValu_(United_States)) |
+Authentication, trust centre, and vulnerability disclosure.
 
-## Maintainers
+- [Supervalu Domain Security](https://apis.io/security/supervalu/supervalu-domain-security/)
 
-**FN:** API Evangelist
-**Email:** info@apievangelist.com
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.supervalu.com)
+
+## API Evangelist rating
+
+**Kin Score 3.4** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/supervalu/](https://apis.io/providers/supervalu/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for SuperValu: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/supervalu/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
